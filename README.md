@@ -2,7 +2,7 @@
 
 **`Front-End Developer`**
 
-Me chamo Iago Campanhol de Lima, tenho 22 anos e sou natural de Campinas, Interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Campinas. Sou apaixonado por tecnologia e sempre estou em busca de novos conhecimentos, estudando e realizando projetos web.
+Eu me chamo Iago Campanhol de Lima, tenho 22 anos e sou natural de Campinas, interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Campinas. Sou apaixonado por tecnologia e sempre estou em busca de novos conhecimentos, estudando e realizando projetos web.
 
 ---
 
