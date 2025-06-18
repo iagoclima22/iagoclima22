@@ -52,7 +52,7 @@ Eu me chamo Iago Campanhol de Lima, tenho 22 anos e sou natural de Campinas, int
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<h2>🌐 Onde me encontrar</h2>
+## 🌐 Onde me encontrar
 <p>
   <a href="https://www.linkedin.com/in/iago-lima-57124b247/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
