@@ -6,7 +6,7 @@ Eu me chamo Iago Campanhol de Lima, tenho 22 anos e sou natural de Campinas, int
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -36,7 +36,7 @@ Eu me chamo Iago Campanhol de Lima, tenho 22 anos e sou natural de Campinas, int
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
 
