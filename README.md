@@ -5,7 +5,7 @@
 Eu me chamo Iago Campanhol de Lima, tenho 22 anos e sou natural de Campinas, interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Campinas. Sou apaixonado por tecnologia e sempre estou em busca de novos conhecimentos, estudando e realizando projetos web.
 
 ---
-</br>
+<br/>
 
 <img 
       align="left" 
@@ -16,7 +16,7 @@ Eu me chamo Iago Campanhol de Lima, tenho 22 anos e sou natural de Campinas, int
 
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## 🌐 Onde me encontrar
 <p>
